@@ -1,7 +1,7 @@
 # PBIHOL
 This are the hands on lab files for PowerBI 
 
-Lab01: Dashboard in a Day
+Lab01: Dashboard in an hour
 
 Lab02: Power BI with Azure Data Warehouse
 
